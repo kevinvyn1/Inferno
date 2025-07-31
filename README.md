@@ -1,4 +1,4 @@
-# Inferno
+# INFERNO STORE
 
 Copyright (c) 2025 Inferno Studios
 
@@ -24,3 +24,7 @@ Lisensi ini bersifat non-eksklusif dan tidak dapat dipindahtangankan tanpa perse
 
 Untuk pertanyaan atau whitelist, hubungi: 
 - @vyn_riots 
+
+
+# INFERNO STORE ~ Free Models
+Dilarang keras untuk menjualnya kembali dengan alasan apapun dikarenakan itu Free models yang dimana semua orang berhak untuk mendapatkannya secara gratis dan legal menurut hukum yang berlaku di ToS Roblox & ToS Roblox Studio dan itu tidak termasuk dalam hukum perlindungan asset jika models tersebut dibuat untuk disebarkan, dibagikan, dipublikasikan.
