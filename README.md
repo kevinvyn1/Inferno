@@ -1,1 +1,26 @@
 # Inferno
+
+Copyright (c) 2025 Inferno Studios
+
+Lisensi Penggunaan Sistem & Asset Roblox Studio
+
+Dengan memperoleh produk ini, pengguna diberikan hak untuk menggunakan script, sistem, dan asset yang disertakan hanya pada 1 akun Roblox yang telah didaftarkan melalui sistem whitelist resmi.
+
+Penggunaan yang Diizinkan:
+- Penggunaan pribadi untuk keperluan game sendiri.
+- Distribusi dalam bentuk pengalaman/game publik, selama menggunakan akun yang terdaftar dan di-whitelist.
+- Modifikasi untuk keperluan internal (selama tidak dibagikan atau dijual ulang).
+
+Dilarang keras:
+- Melakukan leak (membocorkan) script atau sistem dalam bentuk apa pun.
+- Menyalin dan/atau mendistribusikan ulang tanpa izin.
+- Menggunakan pada akun yang tidak di-whitelist.
+- Menjual ulang, mengubah branding, atau meniru produk ini untuk keperluan komersial.
+- Mengupload ulang script/sistem ini secara publik (baik utuh maupun sebagian).
+
+Setiap pelanggaran terhadap ketentuan ini akan dikenakan sanksi sesuai kebijakan pemilik produk, termasuk namun tidak terbatas pada blacklist, revoke akses, dan laporan resmi ke Roblox.
+
+Lisensi ini bersifat non-eksklusif dan tidak dapat dipindahtangankan tanpa persetujuan tertulis dari pemilik asli.
+
+Untuk pertanyaan atau whitelist, hubungi: 
+- @vyn_riots 
